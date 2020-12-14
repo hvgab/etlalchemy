@@ -1,3 +1,7 @@
+Fork:
+Code is old and does now work on python 3.x.
+Fix it up and test it. Might be useful for some simple db etl jobs.
+
 # etlalchemy
 Extract, Transform and Load...Migrate any SQL Database in 4 Lines of Code. *[Read more here...](http://thelaziestprogrammer.com/sharrington/databases/migrating-between-databases-with-etlalchemy)*
 
